@@ -245,3 +245,6 @@ This repository serves as the official landing page for RasterStitch. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of RasterStitch today!**
+
+---
+**Last updated:** 2026-09-11 07:41:16 UTC
